@@ -1,0 +1,242 @@
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:05:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (AccessDeniedException) when calling the GetCostAndUsage operation: User not enabled for cost explorer access
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:06:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (AccessDeniedException) when calling the GetCostAndUsage operation: User not enabled for cost explorer access
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:07:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (AccessDeniedException) when calling the GetCostAndUsage operation: User not enabled for cost explorer access
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:08:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:09:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:10:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:11:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:12:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:13:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:14:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:15:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:16:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:17:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:18:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+
+aws: [ERROR]: An error occurred (DataUnavailableException) when calling the GetCostAndUsage operation: Data is not available. Please try to adjust the time period. If just enabled Cost Explorer, data might not be ingested yet
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status
+mail: cannot send message: Process exited with a non-zero status

@@ -1,0 +1,14 @@
+===== AWS Usage Report =====
+Generated on: Sun Apr 12 15:55:01 UTC 2026
+
+=== EC2 Instances ===
+i-0b0b26fd03119d1ee
+
+=== S3 Buckets ===
+sivtest123 --> 0 Bytes
+
+=== IAM Users ===
+
+=== Lambda Functions ===
+
+===== End of Report =====

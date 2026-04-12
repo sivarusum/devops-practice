@@ -1,2 +1,3 @@
-# devops-practice
-simple devops practice
+# DevOps Practice
+
+Scripts for AWS usage reporting and automation.

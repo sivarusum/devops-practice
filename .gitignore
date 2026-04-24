@@ -1,2 +1,7 @@
 *.log
 .msmtprc
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+.terraform.lock.hcl
